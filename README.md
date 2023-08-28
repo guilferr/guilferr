@@ -41,6 +41,10 @@ Me chamo Guilherme Ferreira 👨‍💻. Sou desenvolvedor a aproximadamente 2 a
   
 </p>
 
+## O que mais uso em meus projetos
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilferr&layout=compact&bg_color=000&border_color=30A3DC&text_color=FFF&hide_title=true)
+
 ## Contate-me
 <p>
 
